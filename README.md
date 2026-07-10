@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-hibaaah&label=Profile%20views&color=0e75b6&style=flat" alt="h-hibaaah" /> </p>
 
-<img align="right" width="320" src="profile-banner.png" alt="coding illustration" />
+<img align="right" width="270" height= "300" src="profile-banner.png" alt="coding illustration" />
 
 - 🌱 I'm currently learning **Android Studio, Kotlin, Git & Github**
 - 🤝 I'm looking for help with **Android Development**
 - 👨‍💻 All of my projects are available at [https://github.com/h-hibaaah](https://github.com/h-hibaaah)
 - 📫 How to reach me **hibba5825@gmail.com**
 - ⚡ Fun fact **I enjoy turning ideas into Projects.**
-
-<br clear="right"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -44,7 +44,7 @@
 </p>
 
 <p>
-⚡ <b>Fun Fact</b><br>
+⚡ <b>Fun Fact</b><br><br>
 💜 I enjoy turning ideas into Projects.
 </p>
   

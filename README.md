@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-hibaaah&label=Profile%20views&color=0e75b6&style=flat" alt="h-hibaaah" /> </p>
 
-<img align="right" width="320" src="assets/profile-banner.png" alt="coding illustration" />
+<img align="right" width="320" src="profile-banner.png" alt="coding illustration" />
 
 - 🌱 I'm currently learning **Android Studio, Kotlin, Git & Github**
 - 🤝 I'm looking for help with **Android Development**

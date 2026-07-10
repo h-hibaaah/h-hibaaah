@@ -1,11 +1,53 @@
 <p align="center">
   <img src="banner.png" width="100%" alt="Banner"/>
 </p>
-- 🌱 I'm currently learning **Android Studio, Kotlin, Git & Github**
-- 🤝 I'm looking for help with **Android Development**
-- 👨‍💻 All of my projects are available at [https://github.com/h-hibaaah](https://github.com/h-hibaaah)
-- 📫 How to reach me **hibba5825@gmail.com**
-- ⚡ Fun fact **I enjoy turning ideas into Projects.**
+<h3>💜 About Me</h3>
+
+<p>
+🌱 <b>Currently Learning</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=androidstudio" width="45"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=kotlin" width="45"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</p>
+
+<p>
+🤝 <b>Looking for Help With</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=androidstudio" width="45"/>
+&nbsp;
+<span style="color:#b48cff;"><b>Android Development</b></span>
+</p>
+
+<p>
+👨‍💻 <b>Projects</b><br><br>
+
+<a href="https://github.com/h-hibaaah?tab=repositories">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+&nbsp;
+<a href="https://github.com/h-hibaaah?tab=repositories"><b>h-hibaaah</b></a>
+</p>
+
+<p>
+📫 <b>Reach Me</b><br><br>
+
+<a href="mailto:hibba5825@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+&nbsp;
+<b>hibba5825@gmail.com</b>
+</p>
+
+<p>
+⚡ <b>Fun Fact</b><br>
+💜 I enjoy turning ideas into Projects.
+</p>
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

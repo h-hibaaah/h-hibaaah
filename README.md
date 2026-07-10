@@ -1,10 +1,6 @@
-<h1 align="center">Hellow World, This is me, Hibaaah</h1>
-<h3 align="center">Aspiring Software Developer | BS Computer Science Student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h-hibaaah&label=Profile%20views&color=0e75b6&style=flat" alt="h-hibaaah" /> </p>
-
-<img align="right" width="270" height= "300" src="profile-banner.png" alt="coding illustration" />
-
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner"/>
+</p>
 - 🌱 I'm currently learning **Android Studio, Kotlin, Git & Github**
 - 🤝 I'm looking for help with **Android Development**
 - 👨‍💻 All of my projects are available at [https://github.com/h-hibaaah](https://github.com/h-hibaaah)

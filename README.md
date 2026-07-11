@@ -71,6 +71,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=h-hibaaah&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=h-hibaaah&theme=transparent&hide_border=true" />
 </p>
 
